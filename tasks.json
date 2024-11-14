@@ -1,0 +1,37 @@
+[
+  {
+    "Description": "Hoàn thành dự án WPF",
+    "Priority": "High",
+    "DueDate": "2024-11-15T14:00:00",
+    "IsCompleted": false,
+    "Status": "InProgress"
+  },
+  {
+    "Description": "Nộp bài tập nhóm",
+    "Priority": "Medium",
+    "DueDate": "2024-11-17T16:30:00",
+    "IsCompleted": false,
+    "Status": "InProgress"
+  },
+  {
+    "Description": "Chuẩn bị bài thuyết trình",
+    "Priority": "Low",
+    "DueDate": "2024-11-20T10:00:00",
+    "IsCompleted": true,
+    "Status": "Completed"
+  },
+  {
+    "Description": "Tham dự họp nhóm",
+    "Priority": "High",
+    "DueDate": "2024-11-14T09:00:00",
+    "IsCompleted": false,
+    "Status": "Cancelled"
+  },
+  {
+    "Description": "Xem lại bài nghiên cứu",
+    "Priority": "Medium",
+    "DueDate": "2024-11-18T13:00:00",
+    "IsCompleted": false,
+    "Status": "InProgress"
+  }
+]

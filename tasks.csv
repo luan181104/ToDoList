@@ -1,0 +1,8 @@
+Description,Priority,DueDate,IsCompleted,Status
+Complete project report,High,2024-11-20,false,InProgress
+Buy groceries,Medium,2024-11-15,false,Completed
+Call plumber,Low,2024-11-18,true,Cancelled
+Submit tax documents,High,2024-11-25,false,InProgress
+Schedule dentist appointment,Medium,2024-11-22,false,InProgress
+Plan weekend trip,Low,2024-12-05,false,Completed
+Update software,High,2024-11-17,true,Completed
